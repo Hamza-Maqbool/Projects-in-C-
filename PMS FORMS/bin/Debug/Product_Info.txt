@@ -1,0 +1,8 @@
+extra,5,11
+Softin,10,48
+ALUIO,10,5
+panadol extra,20,30
+POSITIVE,25,50
+PANADOL,55,34
+augmintin,55,38
+FORMULA,100,78

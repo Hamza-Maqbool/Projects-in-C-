@@ -1,0 +1,29 @@
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS FORMS.csproj.AssemblyReference.cache
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Properties.Resources.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS FORMS.csproj.GenerateResource.cache
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS FORMS.csproj.CoreCompileInputs.cache
+D:\University Work\Semester 2\PMS\PMS FORMS\bin\Debug\PMS FORMS.exe.config
+D:\University Work\Semester 2\PMS\PMS FORMS\bin\Debug\PMS FORMS.exe
+D:\University Work\Semester 2\PMS\PMS FORMS\bin\Debug\PMS FORMS.pdb
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS FORMS.exe
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS FORMS.pdb
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Form1.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Form2.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Form3.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Form4.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Form5.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Form6.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.Form7.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.STAFF_FORMS.SForm1.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.STAFF_FORMS.SForm2.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.STAFF_FORMS.SForm3.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.STAFF_FORMS.SForm4.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.STAFF_FORMS.SForm5.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.STAFF_FORMS.SForm6.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.user_forms.UForm1.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.user_forms.UForm2.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.user_forms.UForm3.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.user_forms.UForm4.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS_FORMS.user_forms.UForm5.resources
+D:\University Work\Semester 2\PMS\PMS FORMS\bin\Debug\Guna.UI2.dll
+D:\University Work\Semester 2\PMS\PMS FORMS\obj\Debug\PMS FORMS.csproj.CopyComplete
