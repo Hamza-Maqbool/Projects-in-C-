@@ -1,0 +1,13 @@
+D:\University Work\Semester 2\Space Shooter\bin\Debug\Space Shooter.exe.config
+D:\University Work\Semester 2\Space Shooter\bin\Debug\Space Shooter.exe
+D:\University Work\Semester 2\Space Shooter\bin\Debug\Space Shooter.pdb
+D:\University Work\Semester 2\Space Shooter\bin\Debug\EZInput.dll
+D:\University Work\Semester 2\Space Shooter\bin\Debug\EZInput.xml
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space Shooter.csproj.AssemblyReference.cache
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space_Shooter.Form1.resources
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space_Shooter.Properties.Resources.resources
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space Shooter.csproj.GenerateResource.cache
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space Shooter.csproj.CoreCompileInputs.cache
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space Shooter.csproj.CopyComplete
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space Shooter.exe
+D:\University Work\Semester 2\Space Shooter\obj\Debug\Space Shooter.pdb
